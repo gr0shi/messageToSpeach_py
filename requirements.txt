@@ -1,1 +1,4 @@
-# todo
+pyTelegramBotAPI==4.12.0
+requests==2.31.0
+bytesbufio==1.0.3
+gTTS==2.3.2
